@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-User-Authentication-Firebase/static/css/main.4e35389f.chunk.css",
+    "main.js": "/React-User-Authentication-Firebase/static/js/main.c7d36aa0.chunk.js",
+    "main.js.map": "/React-User-Authentication-Firebase/static/js/main.c7d36aa0.chunk.js.map",
+    "runtime-main.js": "/React-User-Authentication-Firebase/static/js/runtime-main.71dcd0a2.js",
+    "runtime-main.js.map": "/React-User-Authentication-Firebase/static/js/runtime-main.71dcd0a2.js.map",
+    "static/js/2.2535b88f.chunk.js": "/React-User-Authentication-Firebase/static/js/2.2535b88f.chunk.js",
+    "static/js/2.2535b88f.chunk.js.map": "/React-User-Authentication-Firebase/static/js/2.2535b88f.chunk.js.map",
+    "static/js/3.7abe198a.chunk.js": "/React-User-Authentication-Firebase/static/js/3.7abe198a.chunk.js",
+    "static/js/3.7abe198a.chunk.js.map": "/React-User-Authentication-Firebase/static/js/3.7abe198a.chunk.js.map",
+    "index.html": "/React-User-Authentication-Firebase/index.html",
+    "static/css/main.4e35389f.chunk.css.map": "/React-User-Authentication-Firebase/static/css/main.4e35389f.chunk.css.map",
+    "static/js/2.2535b88f.chunk.js.LICENSE.txt": "/React-User-Authentication-Firebase/static/js/2.2535b88f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71dcd0a2.js",
+    "static/js/2.2535b88f.chunk.js",
+    "static/css/main.4e35389f.chunk.css",
+    "static/js/main.c7d36aa0.chunk.js"
+  ]
+}
